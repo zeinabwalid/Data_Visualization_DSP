@@ -37,7 +37,7 @@ class ApplicationWindow(QtWidgets.QMainWindow):
         self.ui.comboBox.currentIndexChanged.connect(self.visual_options)
         self.ui.comboBoxMap.currentIndexChanged.connect(self.visual_options)
         self.ui.comboBox_lengthBar.currentIndexChanged.connect(self.visual_options)
-        self.ui.comboBox_lengthBar.currentIndexChanged.connect(self.comboBoxBar_control)
+        self.ui.comboBox_SortBars.currentIndexChanged.connect(self.Load_bar)
 
 
     def visual_options(self):
