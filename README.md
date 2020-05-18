@@ -10,16 +10,16 @@ In this project, I visualize data of COVID19 datasets using animated Bubbles , a
 
 1- Main window:
 
-![](results/main_window.PNG)
+![](results/main_window.png)
 
 2- Animated Bubble Graph:
 
-![](results/animatedBubble.PNG)
+![](results/animatedBubble.png)
 
 3- Animated Map Graph:
 
- ![](results/animatedMap.PNG)
+ ![](results/animatedmap.png)
 
 4- Animated Sorted Chart
 
-![](results/animatedSortedChart.PNG)
+![](results/animatedSortedChart.png)
